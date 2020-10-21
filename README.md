@@ -1,7 +1,7 @@
 ## Pretrained model summary   
-* [pretrained language model](#pretrained-language-model)   
-* [pretrained vision model](pretrained-vision-model)   
-* [pretrained vision and language model](pretrained-vision-and-language-model)   
+* ### [pretrained language model](#pretrained-language-model)   
+* ### [pretrained vision model](pretrained-vision-model)   
+* ### [pretrained vision and language model](pretrained-vision-and-language-model)   
 ---
 ## Pretrained language model   
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding[[paper]](https://arxiv.org/pdf/1810.04805.pdf)[[code(tensorflow)]](https://github.com/google-research/bert)[[code(pytorch)]](https://github.com/codertimo/BERT-pytorch)   
