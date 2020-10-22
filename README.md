@@ -11,8 +11,12 @@
 * RoBERTa: A Robustly Optimized BERT Pretraining Approach[[paper]](https://arxiv.org/pdf/1907.11692.pdf)[[code]](https://github.com/pytorch/fairseq/tree/master/examples/roberta)   
 * Language Models are Unsupervised Multitask Learners[[paper]](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)[[code]](https://github.com/openai/gpt-2)   
 * Language Models are Few-Shot Learners[[paper]](https://arxiv.org/pdf/2005.14165.pdf)[[code]](https://github.com/openai/gpt-3)   
+* XLNet: Generalized Autoregressive Pretraining for Language Understanding[[paper]](https://arxiv.org/pdf/1906.08237.pdf)[[code]](https://github.com/zihangdai/xlnet)   
 ---
 ## Pretrained vision model   
+* Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks[[paper]](https://arxiv.org/pdf/1506.01497.pdf)[[code]](https://github.com/rbgirshick/py-faster-rcnn)   
+* Mask R-CNN[[paper]](https://arxiv.org/pdf/1703.06870.pdf)[[code]](https://github.com/matterport/Mask_RCNN)   
+
 
 ---
 ## Pretrained vision and language model   
