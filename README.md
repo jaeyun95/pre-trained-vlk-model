@@ -14,9 +14,9 @@
 * XLNet: Generalized Autoregressive Pretraining for Language Understanding[[paper]](https://arxiv.org/pdf/1906.08237.pdf)[[code]](https://github.com/zihangdai/xlnet)   
 ---
 ## Pretrained vision model   
-* Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks[[paper]](https://arxiv.org/pdf/1506.01497.pdf)[[code]](https://github.com/rbgirshick/py-faster-rcnn)   
+* Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks[[paper]](https://arxiv.org/pdf/1506.01497.pdf)[[code(pytorch)]](https://github.com/longcw/faster_rcnn_pytorch)   
 * Mask R-CNN[[paper]](https://arxiv.org/pdf/1703.06870.pdf)[[code]](https://github.com/matterport/Mask_RCNN)   
-
+* You Only Look Once: Unified, Real-Time Object Detection[[paper]](https://arxiv.org/pdf/1506.02640.pdf)[[code(tensorflow)]](https://github.com/gliese581gg/YOLO_tensorflow)  
 
 ---
 ## Pretrained vision and language model   
