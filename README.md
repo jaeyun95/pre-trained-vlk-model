@@ -4,8 +4,8 @@
 * ### [pretrained vision and language model](pretrained-vision-and-language-model)   
 ---
 ## Pretrained language model   
-* Improving Language Understanding by Generative Pre-Training[[paper]](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)[[code]](https://github.com/huggingface/transformers)   
-* ELMo : Deep contextualized word representations[[paper]](https://arxiv.org/pdf/1802.05365.pdf)[[code]](https://github.com/yuanxiaosc/ELMo)   
+* Improving Language Understanding by Generative Pre-Training[[paper]](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)[[code(pytorch)]](https://github.com/huggingface/transformers)   
+* ELMo : Deep contextualized word representations[[paper]](https://arxiv.org/pdf/1802.05365.pdf)[[code(tensorflow)]](https://github.com/yuanxiaosc/ELMo)   
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding[[paper]](https://arxiv.org/pdf/1810.04805.pdf)[[code(tensorflow)]](https://github.com/google-research/bert)[[code(pytorch)]](https://github.com/codertimo/BERT-pytorch)   
 * ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS[[paper]](https://arxiv.org/pdf/1909.11942.pdf)[[code(tensorflow)]](https://github.com/google-research/albert)[[code(pytorch)]](https://github.com/graykode/ALBERT-Pytorch)   
 * RoBERTa: A Robustly Optimized BERT Pretraining Approach[[paper]](https://arxiv.org/pdf/1907.11692.pdf)[[code[pytorch]]](https://github.com/pytorch/fairseq/tree/master/examples/roberta)   
