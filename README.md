@@ -20,4 +20,6 @@
 
 ---
 ## Pretrained vision and language model   
+* ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks[[paper]](https://arxiv.org/pdf/1908.02265.pdf)[[code(pytorch)]](https://github.com/jiasenlu/vilbert_beta)   
+* 12-in-1: Multi-Task Vision and Language Representation Learning[[paper]](https://arxiv.org/pdf/1912.02315.pdf)[[code(pytorch)]](https://github.com/facebookresearch/vilbert-multi-task)   
 
