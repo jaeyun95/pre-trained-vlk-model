@@ -34,4 +34,4 @@
 |12-in-1: Multi-Task Vision and Language Representation Learning|[[paper]](https://arxiv.org/pdf/1912.02315.pdf)|[[code(pytorch)]](https://github.com/facebookresearch/vilbert-multi-task)|
 |LXMERT: Learning Cross-Modality Encoder Representations from Transformers|[[paper]](https://arxiv.org/pdf/1908.07490.pdf)|[[code(pytorch)]](https://github.com/airsplay/lxmert)|
 |VISUALBERT: A SIMPLE AND PERFORMANT BASELINE FOR VISION AND LANGUAGE|[[paper]](https://arxiv.org/pdf/1908.03557.pdf)|[[code(pytorch)]](https://github.com/uclanlp/visualbert)|
-|VL-BERT: Pre-training of Generic Visual-Linguistic Representations|[[papaer]](https://arxiv.org/pdf/1908.08530.pdf)|[[code(pytorch)]](https://github.com/jackroos/VL-BERT)|
+|VL-BERT: Pre-training of Generic Visual-Linguistic Representations|[[paper]](https://arxiv.org/pdf/1908.08530.pdf)|[[code(pytorch)]](https://github.com/jackroos/VL-BERT)|
