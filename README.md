@@ -24,8 +24,11 @@
 
 ---
 ## Pretrained vision and language model   
+### summary table   
+
 |**title**|**paper link**|**code link**|
 |---|:---:|:---:|
 |ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks|[[paper]](https://arxiv.org/pdf/1908.02265.pdf)|[[code(pytorch)]](https://github.com/jiasenlu/vilbert_beta)|
 |12-in-1: Multi-Task Vision and Language Representation Learning|[[paper]](https://arxiv.org/pdf/1912.02315.pdf)|[[code(pytorch)]](https://github.com/facebookresearch/vilbert-multi-task)|
-
+|LXMERT: Learning Cross-Modality Encoder Representations from Transformers|[paper](https://arxiv.org/pdf/1908.07490.pdf)|[code(pytorch)](https://github.com/airsplay/lxmert)|
+|VISUALBERT: A SIMPLE AND PERFORMANT BASELINE FOR VISION AND LANGUAGE|[paper](https://arxiv.org/pdf/1908.03557.pdf)|[code(pytorch)](https://github.com/uclanlp/visualbert)|
