@@ -1,7 +1,9 @@
 ## Pretrained model summary   
 * ### [pretrained language model](#pretrained-language-model)   
-* ### [pretrained vision model](pretrained-vision-model)   
-* ### [pretrained vision and language model](pretrained-vision-and-language-model)   
+* ### [pretrained vision(image) model](pretrained-vision(image)-model)   
+* ### [pretrained vision(video) model](pretrained-vision(video)-model)   
+* ### [pretrained vision(image) and language model](pretrained-vision(image)-and-language-model)   
+* ### [pretrained vision(video) and language model](pretrained-vision(video)-and-language-model)   
 ---
 ## Pretrained language model   
 |**title**|**paper link**|**code link**|
@@ -15,7 +17,7 @@
 |Language Models are Few-Shot Learners|[[paper]](https://arxiv.org/pdf/2005.14165.pdf)|[[code]](https://github.com/openai/gpt-3)|
 |XLNet: Generalized Autoregressive Pretraining for Language Understanding|[[paper]](https://arxiv.org/pdf/1906.08237.pdf)|[[code(tensorflow)]](https://github.com/zihangdai/xlnet)|
 ---
-## Pretrained vision model   
+## Pretrained vision(image) model   
 |**title**|**paper link**|**code link**|
 |---|:---:|:---:|
 |Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks|[[paper]](https://arxiv.org/pdf/1506.01497.pdf)|[[code(pytorch)]](https://github.com/longcw/faster_rcnn_pytorch)|
@@ -23,7 +25,7 @@
 |You Only Look Once: Unified, Real-Time Object Detection|[[paper]](https://arxiv.org/pdf/1506.02640.pdf)|[[code(tensorflow)]](https://github.com/gliese581gg/YOLO_tensorflow)|
 
 ---
-## Pretrained vision and language model   
+## Pretrained vision(image) and language model   
 ### summary table   
 ![image](summary.jpg)   
 
