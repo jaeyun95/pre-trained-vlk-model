@@ -35,3 +35,5 @@
 |LXMERT: Learning Cross-Modality Encoder Representations from Transformers|[[paper]](https://arxiv.org/pdf/1908.07490.pdf)|[[code(pytorch)]](https://github.com/airsplay/lxmert)|
 |VISUALBERT: A SIMPLE AND PERFORMANT BASELINE FOR VISION AND LANGUAGE|[[paper]](https://arxiv.org/pdf/1908.03557.pdf)|[[code(pytorch)]](https://github.com/uclanlp/visualbert)|
 |VL-BERT: Pre-training of Generic Visual-Linguistic Representations|[[paper]](https://arxiv.org/pdf/1908.08530.pdf)|[[code(pytorch)]](https://github.com/jackroos/VL-BERT)|
+|UNITER: LEARNING UNIVERSAL IMAGE-TEXT REPRESENTATIONS|[[paper]](https://arxiv.org/pdf/1909.11740.pdf)|[[code(pytorch)]](https://github.com/ChenRocks/UNITER)|
+|Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training|[[paper]](https://arxiv.org/pdf/1908.06066.pdf)|[[code(pytorch)]](https://github.com/microsoft/Unicoder)|
