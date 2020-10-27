@@ -1,9 +1,9 @@
 ## Pretrained model summary   
 * ### [pretrained language model](#pretrained-language-model)   
-* ### [pretrained image model](pretrained-image-model)   
-* ### [pretrained video model](pretrained-video-model)   
-* ### [pretrained image and language model](pretrained-image-and-language-model)   
-* ### [pretrained video and language model](pretrained-video-and-language-model)   
+* ### [pretrained image model](#pretrained-image-model)   
+* ### [pretrained video model](#pretrained-video-model)   
+* ### [pretrained image and language model](#pretrained-image-and-language-model)   
+* ### [pretrained video and language model](#pretrained-video-and-language-model)   
 ---
 ## Pretrained language model   
 |**title**|**paper link**|**code link**|
