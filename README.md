@@ -20,6 +20,7 @@
 ## pretrained image model   
 |**title**|**paper link**|**code link**|
 |---|:---:|:---:|
+|Identity Mappings in Deep Residual Networks|[[paper]](https://arxiv.org/pdf/1603.05027.pdf)|[[code]](https://github.com/KaimingHe/resnet-1k-layers)|
 |Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks|[[paper]](https://arxiv.org/pdf/1506.01497.pdf)|[[code(pytorch)]](https://github.com/longcw/faster_rcnn_pytorch)|
 |Mask R-CNN|[[paper]](https://arxiv.org/pdf/1703.06870.pdf)|[[code(tensorflow)]](https://github.com/matterport/Mask_RCNN)[[code(pytorch)]](https://github.com/facebookresearch/maskrcnn-benchmark)|
 |You Only Look Once: Unified, Real-Time Object Detection|[[paper]](https://arxiv.org/pdf/1506.02640.pdf)|[[code(tensorflow)]](https://github.com/gliese581gg/YOLO_tensorflow)|
