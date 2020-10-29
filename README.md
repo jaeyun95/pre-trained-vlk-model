@@ -43,7 +43,10 @@
 |VL-BERT: Pre-training of Generic Visual-Linguistic Representations|[[paper]](https://arxiv.org/pdf/1908.08530.pdf)|[[code(pytorch)]](https://github.com/jackroos/VL-BERT)|
 |UNITER: LEARNING UNIVERSAL IMAGE-TEXT REPRESENTATIONS|[[paper]](https://arxiv.org/pdf/1909.11740.pdf)|[[code(pytorch)]](https://github.com/ChenRocks/UNITER)|
 |Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training|[[paper]](https://arxiv.org/pdf/1908.06066.pdf)|[[code(pytorch)]](https://github.com/microsoft/Unicoder)|
-
+|Large-Scale Adversarial Training for Vision-and-Language Representation Learning|[[paper]](https://arxiv.org/pdf/2006.06195.pdf)|[[code(pytorch)]](https://github.com/zhegan27/VILLA)|
    
 ---
 ## pretrained video and language model   
+|**title**|**paper link**|**code link**|
+|---|:---:|:---:|
+|VideoBERT: A Joint Model for Video and Language Representation Learning|[[paper]](https://arxiv.org/pdf/1904.01766.pdf)|[code]|
