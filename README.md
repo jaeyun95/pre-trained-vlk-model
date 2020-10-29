@@ -44,7 +44,8 @@
 |UNITER: LEARNING UNIVERSAL IMAGE-TEXT REPRESENTATIONS|[[paper]](https://arxiv.org/pdf/1909.11740.pdf)|[[code(pytorch)]](https://github.com/ChenRocks/UNITER)|
 |Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training|[[paper]](https://arxiv.org/pdf/1908.06066.pdf)|[[code(pytorch)]](https://github.com/microsoft/Unicoder)|
 |Large-Scale Adversarial Training for Vision-and-Language Representation Learning|[[paper]](https://arxiv.org/pdf/2006.06195.pdf)|[[code(pytorch)]](https://github.com/zhegan27/VILLA)|
-   
+|Fusion of Detected Objects in Text for Visual Question Answering|[[paper]](https://arxiv.org/pdf/1908.05054.pdf)|[[code(tensorflow)]](https://github.com/google-research/language/tree/master/language/question_answering/b2t2)|
+
 ---
 ## pretrained video and language model   
 |**title**|**paper link**|**code link**|
