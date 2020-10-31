@@ -27,6 +27,9 @@
 |YOLOv3: An Incremental Improvement|[[paper]](https://pjreddie.com/media/files/papers/YOLOv3.pdf)|[[code(tensorflow)]](https://github.com/YunYang1994/tensorflow-yolov3)[[code(pytorch)]](https://github.com/ultralytics/yolov3)|
 ---   
 ## pretrained video model   
+|**title**|**paper link**|**code link**|
+|---|:---:|:---:|
+|Looking Fast and Slow: Memory-Guided Mobile Video Object Detection|[[paper]](https://arxiv.org/pdf/1903.10172v1.pdf)|[[code(tensorflow)]](https://github.com/tensorflow/models)|
 
 ---   
 ## pretrained image and language model   
