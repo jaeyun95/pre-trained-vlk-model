@@ -51,3 +51,4 @@
 |**title**|**paper link**|**code link**|
 |---|:---:|:---:|
 |VideoBERT: A Joint Model for Video and Language Representation Learning|[[paper]](https://arxiv.org/pdf/1904.01766.pdf)|[code]|
+|UniVL: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation|[[paper]](https://arxiv.org/pdf/2002.06353.pdf)|[code]|
