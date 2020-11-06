@@ -30,6 +30,7 @@
 |**title**|**paper link**|**code link**|
 |---|:---:|:---:|
 |Looking Fast and Slow: Memory-Guided Mobile Video Object Detection|[[paper]](https://arxiv.org/pdf/1903.10172v1.pdf)|[[code(tensorflow)]](https://github.com/tensorflow/models)|
+|Context R-CNN: Long Term Temporal Context for Per-Camera Object Detection|[[paper]](https://arxiv.org/pdf/1912.03538v3.pdf)|[[code(tensorflow)]](https://github.com/tensorflow/models)|
 
 ---   
 ## pretrained image and language model   
