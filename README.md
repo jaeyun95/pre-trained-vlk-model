@@ -4,6 +4,7 @@
 * ### [pretrained video model](#pretrained-video-model)   
 * ### [pretrained image and language model](#pretrained-image-and-language-model)   
 * ### [pretrained video and language model](#pretrained-video-and-language-model)   
+* ### [pretrained knowledge and language model](#pretrained-knowledge-and-language-model)   
 ---
 ## pretrained language model   
 |**title**|**paper link**|**code link**|
@@ -57,3 +58,9 @@
 |---|:---:|:---:|
 |VideoBERT: A Joint Model for Video and Language Representation Learning|[[paper]](https://arxiv.org/pdf/1904.01766.pdf)|[code]|
 |UniVL: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation|[[paper]](https://arxiv.org/pdf/2002.06353.pdf)|[code]|
+
+---
+## pretrained knowledge and language model   
+|**title**|**paper link**|**code link**|
+|---|:---:|:---:|
+|Knowledge Enhanced Contextual Word Representations|[[paper]](https://arxiv.org/pdf/1909.04164.pdf)|[[code(pytorch)]](https://github.com/allenai/kb)|
