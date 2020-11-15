@@ -59,6 +59,7 @@
 |---|:---:|:---:|
 |VideoBERT: A Joint Model for Video and Language Representation Learning|[[paper]](https://arxiv.org/pdf/1904.01766.pdf)|[code]|
 |UniVL: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation|[[paper]](https://arxiv.org/pdf/2002.06353.pdf)|[code]|
+|Multi-modal Circulant Fusion for Video-to-Language and Backward|[[paper]](https://www.ijcai.org/Proceedings/2018/0143.pdf)|[code]|
 
 ---
 ## pretrained knowledge and language model   
