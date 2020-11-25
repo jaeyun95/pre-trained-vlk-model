@@ -61,9 +61,11 @@
 |UniVL: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation|[[paper]](https://arxiv.org/pdf/2002.06353.pdf)|[code]|
 |Multi-modal Circulant Fusion for Video-to-Language and Backward|[[paper]](https://www.ijcai.org/Proceedings/2018/0143.pdf)|[code]|
 |Video-Grounded Dialogues with Pretrained Generation Language Models|[[paper]](https://arxiv.org/pdf/2006.15319.pdf)|[code]|
+|Deep Extreme Cut: From Extreme Points to Object Segmentation|[[paper]](https://arxiv.org/pdf/1711.09081)|[[code(pytorch)]](https://github.com/scaelles/DEXTR-PyTorch)|
 
 ---
 ## pretrained knowledge and language model   
 |**title**|**paper link**|**code link**|
 |---|:---:|:---:|
 |Knowledge Enhanced Contextual Word Representations|[[paper]](https://arxiv.org/pdf/1909.04164.pdf)|[[code(pytorch)]](https://github.com/allenai/kb)|
+
