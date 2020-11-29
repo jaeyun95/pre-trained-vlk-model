@@ -25,7 +25,9 @@
 |Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks|[[paper]](https://arxiv.org/pdf/1506.01497.pdf)|[[code(pytorch)]](https://github.com/longcw/faster_rcnn_pytorch)|
 |Mask R-CNN|[[paper]](https://arxiv.org/pdf/1703.06870.pdf)|[[code(tensorflow)]](https://github.com/matterport/Mask_RCNN)[[code(pytorch)]](https://github.com/facebookresearch/maskrcnn-benchmark)|
 |You Only Look Once: Unified, Real-Time Object Detection|[[paper]](https://arxiv.org/pdf/1506.02640.pdf)|[[code(tensorflow)]](https://github.com/gliese581gg/YOLO_tensorflow)|
-|YOLOv3: An Incremental Improvement|[[paper]](https://pjreddie.com/media/files/papers/YOLOv3.pdf)|[[code(tensorflow)]](https://github.com/YunYang1994/tensorflow-yolov3)[[code(pytorch)]](https://github.com/ultralytics/yolov3)|
+|YOLOv3: An Incremental Improvement|[[paper]](https://pjreddie.com/media/files/papers/YOLOv3.pdf)|[[code(tensorflow)]](https://github.com/YunYang1994/tensorflow-yolov3)[[code(pytorch)]](https://github.com/ultralytics/yolov3)|   
+|Enhanced Deep Residual Networks for Single Image Super-Resolution|[[paper]](https://arxiv.org/pdf/1707.02921.pdf)|[[code(tensorflow)]](https://github.com/YunYang1994/tensorflow-yolov3)[[code(pytorch)]](https://github.com/ultralytics/yolov3)|  
+
 ---   
 ## pretrained video model   
 |**title**|**paper link**|**code link**|
@@ -33,7 +35,7 @@
 |Looking Fast and Slow: Memory-Guided Mobile Video Object Detection|[[paper]](https://arxiv.org/pdf/1903.10172v1.pdf)|[[code(tensorflow)]](https://github.com/tensorflow/models)|
 |Context R-CNN: Long Term Temporal Context for Per-Camera Object Detection|[[paper]](https://arxiv.org/pdf/1912.03538v3.pdf)|[[code(tensorflow)]](https://github.com/tensorflow/models)|
 |Optimizing Video Object Detection via a Scale-Time Lattice|[[paper]](https://arxiv.org/pdf/1804.05472v1.pdf)|[[code(pytorch)]](https://github.com/guanfuchen/video_obj)|
-|Mobile Video Object Detection with Temporally-Aware Feature Maps|[[paper]](https://arxiv.org/pdf/1711.06368v2.pdf)|[[code(tensorflow)]](https://github.com/tensorflow/models)|
+|Mobile Video Object Detection with Temporally-Aware Feature Maps|[[paper]](https://arxiv.org/pdf/1711.06368v2.pdf)|[[code(pytorch)]](https://github.com/thstkdgus35/EDSR-PyTorch)|
 
 ---   
 ## pretrained image and language model   
