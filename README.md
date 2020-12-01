@@ -71,4 +71,5 @@
 |**title**|**paper link**|**code link**|
 |---|:---:|:---:|
 |Knowledge Enhanced Contextual Word Representations|[[paper]](https://arxiv.org/pdf/1909.04164.pdf)|[[code(pytorch)]](https://github.com/allenai/kb)|
+|Why Do Masked Neural Language Models Still Need Commonsense Repositories to Handle Semantic Variations in Question Answering? |[[paper]](https://arxiv.org/pdf/1911.03024.pdf)|[code]|
 
