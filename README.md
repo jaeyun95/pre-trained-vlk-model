@@ -74,3 +74,4 @@
 |Why Do Masked Neural Language Models Still Need Commonsense Repositories to Handle Semantic Variations in Question Answering? |[[paper]](https://arxiv.org/pdf/1911.03024.pdf)|[code]|
 |SentiLARE: Sentiment-Aware Language Representation Learning with Linguistic Knowledge|[[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.567.pdf)|[[code]](https://github.com/thu-coai/SentiLARE/issues)|
 |Acquiring Knowledge from Pre-trained Model to Neural Machine Translation|[[paper]](https://arxiv.org/pdf/1912.01774.pdf)|[[code]](https://github.com/wengrx/APT-NMT)|
+|Knowledge-Aware Language Model Pretraining|[[paper]](https://arxiv.org/pdf/2007.00655.pdf)|[code]|
