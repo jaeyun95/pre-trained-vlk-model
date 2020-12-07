@@ -26,7 +26,7 @@
 |Mask R-CNN|[[paper]](https://arxiv.org/pdf/1703.06870.pdf)|[[code(tensorflow)]](https://github.com/matterport/Mask_RCNN)[[code(pytorch)]](https://github.com/facebookresearch/maskrcnn-benchmark)|
 |You Only Look Once: Unified, Real-Time Object Detection|[[paper]](https://arxiv.org/pdf/1506.02640.pdf)|[[code(tensorflow)]](https://github.com/gliese581gg/YOLO_tensorflow)|
 |YOLOv3: An Incremental Improvement|[[paper]](https://pjreddie.com/media/files/papers/YOLOv3.pdf)|[[code(tensorflow)]](https://github.com/YunYang1994/tensorflow-yolov3)[[code(pytorch)]](https://github.com/ultralytics/yolov3)|   
-|Enhanced Deep Residual Networks for Single Image Super-Resolution|[[paper]](https://arxiv.org/pdf/1707.02921.pdf)|[[code(tensorflow)]](https://github.com/YunYang1994/tensorflow-yolov3)[[code(pytorch)]](https://github.com/ultralytics/yolov3)|  
+|YOLOv4: Optimal Speed and Accuracy of Object Detection|[[paper]](https://arxiv.org/pdf/2004.10934v1.pdf)|[[code(tensorflow)]](https://github.com/hunglc007/tensorflow-yolov4-tflite)|  
 
 ---   
 ## pretrained video model   
