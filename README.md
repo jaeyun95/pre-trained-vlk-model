@@ -36,6 +36,7 @@
 |Context R-CNN: Long Term Temporal Context for Per-Camera Object Detection|[[paper]](https://arxiv.org/pdf/1912.03538v3.pdf)|[[code(tensorflow)]](https://github.com/tensorflow/models)|
 |Optimizing Video Object Detection via a Scale-Time Lattice|[[paper]](https://arxiv.org/pdf/1804.05472v1.pdf)|[[code(pytorch)]](https://github.com/guanfuchen/video_obj)|
 |Mobile Video Object Detection with Temporally-Aware Feature Maps|[[paper]](https://arxiv.org/pdf/1711.06368v2.pdf)|[[code(pytorch)]](https://github.com/thstkdgus35/EDSR-PyTorch)|
+|X3D: Expanding Architectures for Efficient Video Recognition|[[paper]](https://arxiv.org/pdf/2004.04730v1.pdf)|[[code(pytorch)]](https://github.com/facebookresearch/SlowFast)|
 
 ---   
 ## pretrained image and language model   
