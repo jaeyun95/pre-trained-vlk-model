@@ -66,6 +66,7 @@
 |Multi-modal Circulant Fusion for Video-to-Language and Backward|[[paper]](https://www.ijcai.org/Proceedings/2018/0143.pdf)|[code]|
 |Video-Grounded Dialogues with Pretrained Generation Language Models|[[paper]](https://arxiv.org/pdf/2006.15319.pdf)|[code]|
 |Deep Extreme Cut: From Extreme Points to Object Segmentation|[[paper]](https://arxiv.org/pdf/1711.09081)|[[code(pytorch)]](https://github.com/scaelles/DEXTR-PyTorch)|
+|Integrating Multimodal Information in Large Pretrained Transformers|[[paper]](https://arxiv.org/pdf/1908.05787.pdf)|[[code(pytorch)]](https://github.com/dongjunn/MBERT)|
 
 ---
 ## pretrained knowledge and language model   
