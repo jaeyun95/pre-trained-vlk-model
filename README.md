@@ -67,6 +67,7 @@
 |Video-Grounded Dialogues with Pretrained Generation Language Models|[[paper]](https://arxiv.org/pdf/2006.15319.pdf)|[code]|
 |Deep Extreme Cut: From Extreme Points to Object Segmentation|[[paper]](https://arxiv.org/pdf/1711.09081)|[[code(pytorch)]](https://github.com/scaelles/DEXTR-PyTorch)|
 |Integrating Multimodal Information in Large Pretrained Transformers|[[paper]](https://arxiv.org/pdf/1908.05787.pdf)|[[code(pytorch)]](https://github.com/dongjunn/MBERT)|
+|Improving LSTM-based Video Description with Linguistic Knowledge Mined from Text|[[paper]](https://arxiv.org/pdf/1604.01729.pdf)|[[code(caffe)]](https://github.com/vsubhashini/caffe/tree/recurrent/examples/language_fusion)|
 
 ---
 ## pretrained knowledge and language model   
