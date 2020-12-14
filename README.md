@@ -78,3 +78,4 @@
 |SentiLARE: Sentiment-Aware Language Representation Learning with Linguistic Knowledge|[[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.567.pdf)|[[code]](https://github.com/thu-coai/SentiLARE/issues)|
 |Acquiring Knowledge from Pre-trained Model to Neural Machine Translation|[[paper]](https://arxiv.org/pdf/1912.01774.pdf)|[[code]](https://github.com/wengrx/APT-NMT)|
 |Knowledge-Aware Language Model Pretraining|[[paper]](https://arxiv.org/pdf/2007.00655.pdf)|[code]|
+|Pretrained Encyclopedia: Weakly Supervised Knowledge-Pretrained Language Model|[[paper]](https://arxiv.org/pdf/1912.09637.pdf)|[code]|
