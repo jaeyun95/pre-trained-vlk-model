@@ -57,6 +57,7 @@
 |Fusion of Detected Objects in Text for Visual Question Answering|[[paper]](https://arxiv.org/pdf/1908.05054.pdf)|[[code(tensorflow)]](https://github.com/google-research/language/tree/master/language/question_answering/b2t2)|
 |ERNIE-ViL: Knowledge Enhanced Vision-Language Representations Through Scene Graph|[[paper]](https://arxiv.org/pdf/2006.16934.pdf)|[code]|
 |X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers|[[paper]](https://arxiv.org/pdf/2009.11278.pdf)|[[code]](https://prior.allenai.org/projects/x-lxmert)|
+|Pixel-BERT: Aligning Image Pixels with Text by Deep Multi-Modal Transformers|[[paper]](https://arxiv.org/pdf/2004.00849.pdf)|[code]|
 
 ---
 ## pretrained video and language model   
