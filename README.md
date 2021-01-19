@@ -59,6 +59,7 @@
 |X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers|[[paper]](https://arxiv.org/pdf/2009.11278.pdf)|[[code]](https://prior.allenai.org/projects/x-lxmert)|
 |Pixel-BERT: Aligning Image Pixels with Text by Deep Multi-Modal Transformers|[[paper]](https://arxiv.org/pdf/2004.00849.pdf)|[code]|
 |M6-v0: Vision-and-Language Interaction for Multi-modal Pretraining|[[paper]](https://arxiv.org/pdf/2003.13198.pdf)|[code]|
+|Unified Vision-Language Pre-Training for Image Captioning and VQA|[[paper]](https://arxiv.org/pdf/1909.11059.pdf)|[code]|
 
 ---
 ## pretrained video and language model   
