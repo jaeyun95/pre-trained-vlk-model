@@ -60,6 +60,7 @@
 |Pixel-BERT: Aligning Image Pixels with Text by Deep Multi-Modal Transformers|[[paper]](https://arxiv.org/pdf/2004.00849.pdf)|[code]|
 |M6-v0: Vision-and-Language Interaction for Multi-modal Pretraining|[[paper]](https://arxiv.org/pdf/2003.13198.pdf)|[code]|
 |Unified Vision-Language Pre-Training for Image Captioning and VQA|[[paper]](https://arxiv.org/pdf/1909.11059.pdf)|[code]|
+|VinVL: Making Visual Representations Matter in Vision-Language Models|[[paper]](https://arxiv.org/pdf/2101.00529.pdf)|[code]|
 
 ---
 ## pretrained video and language model   
