@@ -86,3 +86,9 @@
 |Acquiring Knowledge from Pre-trained Model to Neural Machine Translation|[[paper]](https://arxiv.org/pdf/1912.01774.pdf)|[[code]](https://github.com/wengrx/APT-NMT)|
 |Knowledge-Aware Language Model Pretraining|[[paper]](https://arxiv.org/pdf/2007.00655.pdf)|[code]|
 |Pretrained Encyclopedia: Weakly Supervised Knowledge-Pretrained Language Model|[[paper]](https://arxiv.org/pdf/1912.09637.pdf)|[code]|
+
+---
+## pretrained vision and language and knowledge model   
+|**title**|**paper link**|**code link**|
+|---|:---:|:---:|
+|Reasoning over Vision and Language:Exploring the Benefits of Supplemental Knowledge|[[paper]](https://arxiv.org/pdf/2101.06013.pdf)|[code]|
