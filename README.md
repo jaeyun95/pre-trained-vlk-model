@@ -5,6 +5,7 @@
 * ### [pretrained image and language model](#pretrained-image-and-language-model)   
 * ### [pretrained video and language model](#pretrained-video-and-language-model)   
 * ### [pretrained knowledge and language model](#pretrained-knowledge-and-language-model)   
+* ### [pretrained vision and language and knowledge model](#pretrained-vision-and-language-and-knowledge-model)  
 ---
 ## pretrained language model   
 |**title**|**paper link**|**code link**|
