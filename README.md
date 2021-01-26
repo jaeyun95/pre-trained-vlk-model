@@ -75,7 +75,7 @@
 |Integrating Multimodal Information in Large Pretrained Transformers|[[paper]](https://arxiv.org/pdf/1908.05787.pdf)|[[code(pytorch)]](https://github.com/dongjunn/MBERT)|
 |Improving LSTM-based Video Description with Linguistic Knowledge Mined from Text|[[paper]](https://arxiv.org/pdf/1604.01729.pdf)|[[code(caffe)]](https://github.com/vsubhashini/caffe/tree/recurrent/examples/language_fusion)|
 |PARAMETER EFFICIENT MULTIMODAL TRANSFORMERS FOR VIDEO REPRESENTATION LEARNING|[[paper]](https://arxiv.org/pdf/2012.04124.pdf)|[code]|
-
+|LoGAN: Latent Graph Co-Attention Network for Weakly-Supervised Video Moment Retrieval|[[paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Tan_LoGAN_Latent_Graph_Co-Attention_Network_for_Weakly-Supervised_Video_Moment_Retrieval_WACV_2021_paper.pdf)|[code]|
 
 ---
 ## pretrained knowledge and language model   
