@@ -39,6 +39,7 @@
 |Mobile Video Object Detection with Temporally-Aware Feature Maps|[[paper]](https://arxiv.org/pdf/1711.06368v2.pdf)|[[code(pytorch)]](https://github.com/thstkdgus35/EDSR-PyTorch)|
 |X3D: Expanding Architectures for Efficient Video Recognition|[[paper]](https://arxiv.org/pdf/2004.04730v1.pdf)|[[code(pytorch)]](https://github.com/facebookresearch/SlowFast)|
 |SibNet: Sibling Convolutional Encoder for Video Captioning|[[paper]](https://dl.acm.org/doi/pdf/10.1145/3240508.3240667?casa_token=XKKmcvVdwpMAAAAA:AcrWSNb91VmdMipe-6E_AD3Hm2-X9jVU4Zh9-zieWEKItVd6I7pIL0F9n15wjqwX_yl4TrqNcc4Phg)|[code]|
+|SAM: Modeling Scene, Object and Action with Semantics Attention Modules for Video Recognition|[[paper]](https://ieeexplore.ieee.org/abstract/document/9316975)|[code]|
 
 ---   
 ## pretrained image and language model   
