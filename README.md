@@ -82,6 +82,7 @@
 |PARAMETER EFFICIENT MULTIMODAL TRANSFORMERS FOR VIDEO REPRESENTATION LEARNING|[[paper]](https://arxiv.org/pdf/2012.04124.pdf)|[code]|
 |LoGAN: Latent Graph Co-Attention Network for Weakly-Supervised Video Moment Retrieval|[[paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Tan_LoGAN_Latent_Graph_Co-Attention_Network_for_Weakly-Supervised_Video_Moment_Retrieval_WACV_2021_paper.pdf)|[code]|
 |VX2TEXT: End-to-End Learning of Video-Based Text Generation From Multimodal Inputs|[[paper]](https://arxiv.org/pdf/2101.12059.pdf)|[code]|
+|HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training|[[paper]](https://arxiv.org/pdf/2005.00200.pdf)|[[code(pytorch)]](https://github.com/linjieli222/HERO)|
 
 ---
 ## pretrained knowledge and language model   
