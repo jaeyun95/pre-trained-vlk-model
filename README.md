@@ -67,6 +67,7 @@
 |Unified Vision-Language Pre-Training for Image Captioning and VQA|[[paper]](https://arxiv.org/pdf/1909.11059.pdf)|[code]|
 |Multimodal Pretraining Unmasked:Unifying the Vision and Language BERTs|[[paper]](https://arxiv.org/pdf/2011.15124.pdf)|[[code]](https://github.com/e-bug/mpre-unmasked)|
 |VinVL: Making Visual Representations Matter in Vision-Language Models|[[paper]](https://arxiv.org/pdf/2101.00529.pdf)|[code]|
+|Seeing past words: Testing the cross-modal capabilities of pretrained V&L models|[[paper]](https://arxiv.org/pdf/2012.12352.pdf)|[code]|
 
 ---
 ## pretrained video and language model   
