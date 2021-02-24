@@ -60,7 +60,7 @@
 |Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training|[[paper]](https://arxiv.org/pdf/1908.06066.pdf)|[[code(pytorch)]](https://github.com/microsoft/Unicoder)|
 |Large-Scale Adversarial Training for Vision-and-Language Representation Learning|[[paper]](https://arxiv.org/pdf/2006.06195.pdf)|[[code(pytorch)]](https://github.com/zhegan27/VILLA)|
 |Fusion of Detected Objects in Text for Visual Question Answering|[[paper]](https://arxiv.org/pdf/1908.05054.pdf)|[[code(tensorflow)]](https://github.com/google-research/language/tree/master/language/question_answering/b2t2)|
-|ERNIE-ViL: Knowledge Enhanced Vision-Language Representations Through Scene Graph|[[paper]](https://arxiv.org/pdf/2006.16934.pdf)|[code]|
+|ERNIE-ViL: Knowledge Enhanced Vision-Language Representations Through Scene Graph|[[paper]](https://arxiv.org/pdf/2006.16934.pdf)|[[code]](https://github.com/PaddlePaddle/ERNIE/tree/repro/ernie-vil)|
 |X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers|[[paper]](https://arxiv.org/pdf/2009.11278.pdf)|[[code]](https://prior.allenai.org/projects/x-lxmert)|
 |Pixel-BERT: Aligning Image Pixels with Text by Deep Multi-Modal Transformers|[[paper]](https://arxiv.org/pdf/2004.00849.pdf)|[code]|
 |M6-v0: Vision-and-Language Interaction for Multi-modal Pretraining|[[paper]](https://arxiv.org/pdf/2003.13198.pdf)|[code]|
