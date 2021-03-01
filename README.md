@@ -29,6 +29,7 @@
 |YOLOv3: An Incremental Improvement|[[paper]](https://pjreddie.com/media/files/papers/YOLOv3.pdf)|[[code(tensorflow)]](https://github.com/YunYang1994/tensorflow-yolov3)[[code(pytorch)]](https://github.com/ultralytics/yolov3)|   
 |YOLOv4: Optimal Speed and Accuracy of Object Detection|[[paper]](https://arxiv.org/pdf/2004.10934v1.pdf)|[[code(tensorflow)]](https://github.com/hunglc007/tensorflow-yolov4-tflite)|  
 |YOLOv5|[paper]|[[code(pytorch)]](https://github.com/ultralytics/yolov5)|  
+|Image Transformer|[[paper]](https://arxiv.org/pdf/1802.05751.pdf)|[[code(pytorch)]](https://github.com/sahajgarg/image_transformer)|  
 
 ---   
 ## pretrained video model   
