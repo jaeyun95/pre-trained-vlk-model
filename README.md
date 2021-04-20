@@ -75,6 +75,7 @@
 |Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts|[[paper]](https://arxiv.org/pdf/2102.08981.pdf)|[[code]](https://github.com/google-research-datasets/conceptual-12m)|
 |Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision|[[paper]](https://arxiv.org/pdf/2102.05918.pdf)|[code]|
 |Transformer is All You Need:Multimodal Multitask Learning with a Unified Transformer|[[paper]](https://arxiv.org/pdf/2102.10772.pdf)|[code]|
+|WIT: Wikipedia-based Image Text Dataset for Multimodal Multilingual Machine Learning|[[paper]](https://arxiv.org/pdf/2103.01913.pdf)|[[code]](https://github.com/google-research-datasets/wit)|
 
 ---
 ## pretrained video and language model   
@@ -109,3 +110,4 @@
 |**title**|**paper link**|**code link**|
 |---|:---:|:---:|
 |Reasoning over Vision and Language:Exploring the Benefits of Supplemental Knowledge|[[paper]](https://arxiv.org/pdf/2101.06013.pdf)|[code]|
+|KVL-BERT: Knowledge Enhanced Visual-and-Linguistic BERT for Visual Commonsense Reasoning|[[paper]](https://arxiv.org/pdf/2012.07000.pdf)|[code]|
